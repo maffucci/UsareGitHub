@@ -8,7 +8,7 @@ Con **GitHub** è possibile gestire non solo file scritti in un qualsiasi lingua
 
 ![flusso](immagini/flusso.jpeg)
 
-#### CrearWe un branch
+#### Creare un branch
 
 Quando lavorate ad un progetto, avrete da gestire in un dato momento parecchie funzionalità e idee di sviluppo alcune delle quali potranno essere immediatamente implementate ed altre ancora no. Al flusso del progetto è possibile aggiungere dei rami (branch) che descrivono alternative o correzioni che potranno poi essere integrati all'interno del progetto originale.
 
