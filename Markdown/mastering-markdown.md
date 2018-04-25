@@ -160,7 +160,8 @@ L'attributo "<em>title</em>" è facoltativo. I nomi dei collegamenti possono con
 <pre>Incomincio la mia giornata con una tazza di caffè e il 
 [The New York Times][NY Times].
 
-[ny times]: http://www.nytimes.com/&lt;/pre>
+[ny times]: http://www.nytimes.com/
+<pre>
 Risultato:
 <pre>&lt;p&gt;Incomincio la mia giornata con una tazza di caffè e il 
 &lt;a href="http://www.nytimes.com/"&gt;The New York Times&lt;/a&gt;.&lt;/p&gt;</pre>
