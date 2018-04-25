@@ -5,5 +5,5 @@ Queste pagine raccolgono appunti personali e traduzione dell'help on-line all'us
 - [Capire il flusso di lavoro di GitHub](https://github.com/maffucci/UsareGitHub/tree/master/GitHubFlow)
 - [Come si usa GitHub](https://github.com/maffucci/UsareGitHub)
 - [Creare pagine Web con GitHub](https://github.com/maffucci/UsareGitHub/tree/master/GitHubPages)
-- [mastering-markdown](https://github.com/maffucci/UsareGitHub/tree/master/Markdown)
+- [Mastering-markdown](https://github.com/maffucci/UsareGitHub/tree/master/Markdown)
 
