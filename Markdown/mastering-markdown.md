@@ -1,6 +1,5 @@
 <img class="aligncenter size-full wp-image-8747" alt="markdown" src="http://www.maffucci.it/wp-content/uploads/2013/08/markdown.jpg" width="640" height="108" />
 
-
 <strong>Cos'è il Markdown?</strong>
 
 Tutto nasce dall'esigenza di poter scrivere in ogni luogo con qualsiasi strumento, in modo rapido, senza vincoli tecnologici legati allo strumetto hardware o software, in breve concentrarsi sul contenuto.
@@ -160,8 +159,7 @@ L'attributo "<em>title</em>" è facoltativo. I nomi dei collegamenti possono con
 <pre>Incomincio la mia giornata con una tazza di caffè e il 
 [The New York Times][NY Times].
 
-[ny times]: http://www.nytimes.com/
-<pre>
+[ny times]: http://www.nytimes.com/</pre>
 Risultato:
 <pre>&lt;p&gt;Incomincio la mia giornata con una tazza di caffè e il 
 &lt;a href="http://www.nytimes.com/"&gt;The New York Times&lt;/a&gt;.&lt;/p&gt;</pre>
@@ -212,3 +210,4 @@ Cosa uso?
 	<li>Plug-In per Wordpress: <a href="http://wordpress.org/plugins/wp-markdown/">WP-Markdown</a></li>
 	<li>On-line: <a href="http://daringfireball.net/projects/markdown/dingus">Dingus</a></li>
 </ul>
+&nbsp;
