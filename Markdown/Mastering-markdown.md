@@ -216,7 +216,8 @@ Esempi
 Testo
 
 <pre>
-E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown. Puoi anche <span>[fare un link a Google!](http://google.com)</span>
+E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown.
+Puoi anche <span>[fare un link a Google!](http://google.com)</span>
 </pre>
 
 E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown. Puoi anche [fare un link a Google!](http://google.com)
