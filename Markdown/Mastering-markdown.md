@@ -210,4 +210,13 @@ Cosa uso?
 	<li>Plug-In per Wordpress: <a href="http://wordpress.org/plugins/wp-markdown/">WP-Markdown</a></li>
 	<li>On-line: <a href="http://daringfireball.net/projects/markdown/dingus">Dingus</a></li>
 </ul>
-&nbsp;
+
+Esempi
+
+Testo
+
+<pre>
+E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown. Puoi anche <span>[fare un link a Google!](http://google.com)</span>
+</pre>
+
+E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown. Puoi anche [fare un link a Google!](http://google.com)
