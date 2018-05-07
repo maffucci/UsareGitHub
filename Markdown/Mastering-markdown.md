@@ -2,7 +2,7 @@
 
 Markdown è una sintassi molto snella e semplice, viene utilizzata per dare lo stile al testo a tutte le forme di scrittura che possono essere utilizzate su GitHub.
 
-Cosa imparerai:
+### Cosa imparerai:
 
 * In che modo il formato Markdown rende facile la modifica del testo in maniera collaborativa
 * In che modo Markdown differisce dai tradizionali approcci alla formattazione del testo
@@ -10,7 +10,7 @@ Cosa imparerai:
 * Come sfruttare il rendering automatico del Markdown di GitHub
 * Come applicare le estensioni Markdown offerte da GitHub
 
-#Cos'è il Markdown?
+# Cos'è il Markdown?
 
 Markdown https://daringfireball.net/projects/markdown/ permette l’applicazione dello stile al testo che viene prodotto per documentare su web. E’ possibile controllare la modalità di presentazione del testo, la formattazione in grassetto o in corsivo, l'aggiunta di immagini e la creazione di elenchi e molto altro. Per lo più, Markdown è un testo puro normale con pochi caratteri non alfabetici, come # o * utilizzati come tag per assegnare lo stile al testo.
 
@@ -22,9 +22,9 @@ Su GitHub puoi usare Markdown in diverse occasioni
 
 Per maggiori informazioni consultare “Writing on GitHub” nella sezione GitHub Help.
 
-##Esempi
+## Esempi
 
-###Testo
+### Testo
 
 <pre>
 E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown.
@@ -33,7 +33,7 @@ Puoi anche <span>[fare un link a Google!](http://google.com)</span>
 
 E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown. Puoi anche [fare un link a Google!](http://google.com)
 
-###Liste
+### Liste
 
 <pre>
 Potresti aver necessità di una lista numerata:
@@ -73,7 +73,7 @@ In modo diverso,
   - Come questo
   - Oppure questo
 
-###Immagini
+### Immagini
 
 <pre>
 Se vuoi includere nel testo delle immagini dovrai fare in questo modo:
@@ -85,7 +85,7 @@ Se vuoi includere nel testo delle immagini dovrai fare in questo modo:
 
 ![Immagine di Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-###Titoli e citazioni
+### Titoli e citazioni
 
 <pre>
 # Documenti strutturati
