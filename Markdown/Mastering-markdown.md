@@ -2,7 +2,7 @@
 
 Markdown è una sintassi molto snella e semplice, viene utilizzata per dare lo stile al testo a tutte le forme di scrittura che possono essere utilizzate su GitHub.
 
-### Cosa imparerai:
+### Cosa imparerai:
 
 * In che modo il formato Markdown rende facile la modifica del testo in maniera collaborativa
 * In che modo Markdown differisce dai tradizionali approcci alla formattazione del testo
@@ -206,11 +206,11 @@ Quando includete una lista di attività all’interno del primo commento di un r
 
 E naturalmente potete usare an che gli emoji! :sparkles: :camel: :boom:
 
-### Guida alla sintassi
+### Guida alla sintassi
 
 Di seguito una panoramica della sintassi Markdown che potete utilizzare ovunque su GitHub.com o nei vostri file di testo.
 
-Titoli
+### Titoli
 
 # Questo è un tag <h1>
 ## Questo è un tag <h2>
@@ -228,7 +228,7 @@ __Questo è un testo in grassetto__
 _Potete **combinare** le due cose_
 </pre>
 
-### Liste
+### Liste
 
 #### Liste non ordinate
 
@@ -254,7 +254,7 @@ _Potete **combinare** le due cose_
 <pre>
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
-<pre>
+</pre>
 
 ### Link
 
