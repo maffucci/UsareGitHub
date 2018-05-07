@@ -20,7 +20,7 @@ Su GitHub puoi usare Markdown in diverse occasioni
 * Commenti  e Pull Requests
 * Files con estensione `.md` o `.markdown` 
 
-Per maggiori informazioni consultare “[Writing on GitHub]”(https://help.github.com/categories/writing-on-github/) nella sezione GitHub Help.
+Per maggiori informazioni consultare “[Writing on GitHub](https://help.github.com/categories/writing-on-github/)” nella sezione GitHub Help.
 
 ## Esempi
 
