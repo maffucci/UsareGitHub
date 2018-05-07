@@ -4,13 +4,13 @@ Markdown è una sintassi molto snella e semplice, viene utilizzata per dare lo s
 
 Cosa imparerai:
 
-In che modo il formato Markdown rende facile la modifica del testo in maniera collaborativa
-In che modo Markdown differisce dai tradizionali approcci alla formattazione del testo
-Come usare Markdown per formattare il testo
-Come sfruttare il rendering automatico del Markdown di GitHub
-Come applicare le estensioni Markdown offerte da GitHub
+* In che modo il formato Markdown rende facile la modifica del testo in maniera collaborativa
+* In che modo Markdown differisce dai tradizionali approcci alla formattazione del testo
+* Come usare Markdown per formattare il testo
+* Come sfruttare il rendering automatico del Markdown di GitHub
+* Come applicare le estensioni Markdown offerte da GitHub
 
-Cos'è il Markdown?
+#Cos'è il Markdown?
 
 Markdown https://daringfireball.net/projects/markdown/ permette l’applicazione dello stile al testo che viene prodotto per documentare su web. E’ possibile controllare la modalità di presentazione del testo, la formattazione in grassetto o in corsivo, l'aggiunta di immagini e la creazione di elenchi e molto altro. Per lo più, Markdown è un testo puro normale con pochi caratteri non alfabetici, come # o * utilizzati come tag per assegnare lo stile al testo.
 
@@ -22,9 +22,9 @@ Su GitHub puoi usare Markdown in diverse occasioni
 
 Per maggiori informazioni consultare “Writing on GitHub” nella sezione GitHub Help.
 
-Esempi
+##Esempi
 
-Testo
+###Testo
 
 <pre>
 E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown.
@@ -33,7 +33,7 @@ Puoi anche <span>[fare un link a Google!](http://google.com)</span>
 
 E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown. Puoi anche [fare un link a Google!](http://google.com)
 
-Liste
+###Liste
 
 <pre>
 Potresti aver necessità di una lista numerata:
@@ -73,7 +73,7 @@ In modo diverso,
   - Come questo
   - Oppure questo
 
-Immagini
+###Immagini
 
 <pre>
 Se vuoi includere nel testo delle immagini dovrai fare in questo modo:
@@ -85,7 +85,7 @@ Se vuoi includere nel testo delle immagini dovrai fare in questo modo:
 
 ![Immagine di Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Titoli e citazioni
+###Titoli e citazioni
 
 <pre>
 # Documenti strutturati
@@ -109,7 +109,7 @@ Se desiderate citare del testo, usare il carattere > prima della riga:
 
 </pre>
 
-# Documenti strutturati
+### Documenti strutturati
 
 A volte è utile avere diversi livelli di intestazioni per strutturare i vostri documenti. Poni davanti al testo che vuoi che sia un titolo il carattere `#`. Più `##` in una riga denotano dimensioni di intestazione più piccole.
 
@@ -128,7 +128,7 @@ Se desiderate citare del testo, usare il carattere > prima della riga:
 >
 > Capitano James Tiberius Kirk (Star Trek )
 
-Codice
+### Codice
 
 <pre>
 
@@ -178,7 +178,7 @@ if (qualcosa){
 }
 ```
 
-Extra
+### Extra
 
 <pre>
 
@@ -206,7 +206,7 @@ Quando includete una lista di attività all’interno del primo commento di un r
 
 E naturalmente potete usare an che gli emoji! :sparkles: :camel: :boom:
 
-Guida alla sintassi
+### Guida alla sintassi
 
 Di seguito una panoramica della sintassi Markdown che potete utilizzare ovunque su GitHub.com o nei vostri file di testo.
 
@@ -216,7 +216,7 @@ Titoli
 ## Questo è un tag <h2>
 ###### Questo è un tag <h6>
 
-Evidenza
+### Evidenza
 
 <pre>
 *Questo è un testo in italico*
@@ -228,9 +228,9 @@ __Questo è un testo in grassetto__
 _Potete **combinare** le due cose_
 </pre>
 
-Liste
+### Liste
 
-Liste non ordinate
+#### Liste non ordinate
 
 <pre>
 * Elemento 1
@@ -239,7 +239,7 @@ Liste non ordinate
   * Elemento 2b
 </pre>
 
-Liste ordinate
+#### Liste ordinate
 
 <pre>
 1. Elemento 1
@@ -249,21 +249,21 @@ Liste ordinate
    1. Elemento 3b
 </pre>
 
-Immagini
+### Immagini
 
 <pre>
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 <pre>
 
-Link
+### Link
 
 <pre>
 http://github.com - automatic!
 [GitHub](http://github.com)
 </pre>
 
-Blockquotes
+### Blockquotes
 
 <pre>
 Spock disse:
@@ -272,20 +272,20 @@ Spock disse:
 > non è così importante come desiderare 
 </pre>
 
-Codice Inline
+### Codice Inline
 
 <pre>
 Penso che dovresti usare
 In questo punto un elemento `<addr>`.
 </pre>
 
-GitHub Flavored Markdown
+### GitHub Flavored Markdown
 
 GitHub.com utilizza una propria versione della sintassi Markdown che fornisce un set aggiuntivo di funzioni utili, molte delle quali rendono più facile lavorare con i contenuti su GitHub.com.
 
 Nota che alcune funzionalità di GitHub Flavored Markdown sono disponibili solo nelle descrizioni e nei commenti di Issues e nelle Pull Requests. Questi includono @mentions e riferimenti agli hash SHA-1. Gli elenchi attività sono inoltre disponibili nei commenti Gist e nei file Gist Markdown.
 
-Evidenziazione della sintassi
+### Evidenziazione della sintassi
 
 Ecco un esempio di come puoi utilizzare l'evidenziazione della sintassi con GitHub Flavored Markdown (https://help.github.com/articles/basic-writing-and-formatting-syntax/):
 
@@ -317,7 +317,7 @@ def foo():
         return True
 </pre>
 
-Elenchi di attività
+### Elenchi di attività
 
 <pre>
 - [x] supporto di @mentions, #refs, [links](), **formatting** e <del>tag</del>
@@ -328,7 +328,7 @@ Elenchi di attività
 
 Se includete un elenco di attività nel primo commento di un rilascio, otterrete un’utile indicatore di progresso nell'elenco dei rilasci. Funziona anche nella Pull Requests!
 
-Tabelle
+### Tabelle
 
 Potete creare tabelle unendo un elenco di parole divise con trattini - (per la prima riga) e quindi separando ciascuna colonna con una pipe |:
 
@@ -346,7 +346,7 @@ Prima intestazione | Seconda intestazione
 Contenuta della cella 1 | Contenuta della cellal 2
 Contenuto prima colonna | Contenuto seconda colonna
 
-Riferimenti SHA
+### Riferimenti SHA
 
 Qualsiasi riferimento all'hash SHA-1 di un commit verrà automaticamente convertito in un link a quel commit su GitHub.
 
@@ -360,19 +360,19 @@ mojombo#1
 mojombo/github-flavored-markdown#1
 </pre>
 
-Username @menzione
+### Username @menzione
 
 Digitando un simbolo @, seguito da un nome utente, notificherà quella persona che è stata menzionata nel commento in questo modo l’utente menzionato potrà vedere il commento in cui è stato menzionato. Questo è chiamato "@mention", perché state citando la persona. Potete  anche @menzionare un team all'interno di un'organizzazione.
 
-Collegamento automatico per URL
+### Collegamento automatico per URL
 
 Qualsiasi URL (come http://www.github.com/) verrà automaticamente convertito in un link cliccabile.
 
-Testo barrato
+### Testo barrato
 
 Ogni parola inclusa tra due tilde (come ~~ this ~~) apparirà barrata.
 
-Emoji
+### Emoji
 
 GitHub supporta le emoji!
 
