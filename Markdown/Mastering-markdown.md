@@ -212,9 +212,11 @@ Di seguito una panoramica della sintassi Markdown che potete utilizzare ovunque 
 
 ### Titoli
 
+<pre>
 # Questo è un tag <h1>
 ## Questo è un tag <h2>
 ###### Questo è un tag <h6>
+</pre>
 
 ### Evidenza
 
