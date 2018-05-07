@@ -12,7 +12,7 @@ Markdown è una sintassi molto snella e semplice, viene utilizzata per dare lo s
 
 # Cos'è il Markdown?
 
-Markdown https://daringfireball.net/projects/markdown/ permette l’applicazione dello stile al testo che viene prodotto per documentare su web. E’ possibile controllare la modalità di presentazione del testo, la formattazione in grassetto o in corsivo, l'aggiunta di immagini e la creazione di elenchi e molto altro. Per lo più, Markdown è un testo puro normale con pochi caratteri non alfabetici, come # o * utilizzati come tag per assegnare lo stile al testo.
+[Markdown](https://daringfireball.net/projects/markdown/) permette l’applicazione dello stile al testo che viene prodotto per documentare su web. E’ possibile controllare la modalità di presentazione del testo, la formattazione in grassetto o in corsivo, l'aggiunta di immagini e la creazione di elenchi e molto altro. Per lo più, Markdown è un testo puro normale con pochi caratteri non alfabetici, come # o * utilizzati come tag per assegnare lo stile al testo.
 
 Su GitHub puoi usare Markdown in diverse occasioni
 
