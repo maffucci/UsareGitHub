@@ -289,7 +289,7 @@ Nota che alcune funzionalità di GitHub Flavored Markdown sono disponibili solo 
 
 ### Evidenziazione della sintassi
 
-Ecco un esempio di come puoi utilizzare l'evidenziazione della sintassi con GitHub Flavored Markdown (https://help.github.com/articles/basic-writing-and-formatting-syntax/):
+Ecco un esempio di come puoi utilizzare l'evidenziazione della sintassi con [GitHub Flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/):
 
 <pre>
 ```javascript
