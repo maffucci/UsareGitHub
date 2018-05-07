@@ -368,11 +368,11 @@ Digitando un simbolo @, seguito da un nome utente, notificherà quella persona c
 
 Qualsiasi URL (come http://www.github.com/) verrà automaticamente convertito in un link cliccabile.
 
-### Testo barrato
+### Testo barrato
 
 Ogni parola inclusa tra due tilde (come ~~ this ~~) apparirà barrata.
 
-### Emoji
+### Emoji
 
 GitHub supporta le emoji!
 
