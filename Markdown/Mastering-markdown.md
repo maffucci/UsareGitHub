@@ -16,7 +16,7 @@ Markdown è una sintassi molto snella e semplice, viene utilizzata per dare lo s
 
 Su GitHub puoi usare Markdown in diverse occasioni
 
-* Gists
+* [Gists](https://gist.github.com/)
 * Commenti  e Pull Requests
 * Files con estensione .md o .markdown 
 
