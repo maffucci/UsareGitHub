@@ -1,4 +1,4 @@
-GitHub è un sistema di controllo di versione che permette di di aggiornare file senza dover sovrascrivere le versioni precedenti, offre con estrema facilità la possibilità di tornare indietro nello storico delle variazioni di un file per recuperare una precedente versione.
+GitHub è un sistema di controllo di versione che permette di aggiornare file senza dover sovrascrivere le versioni precedenti, offre con estrema facilità la possibilità di tornare indietro nello storico delle variazioni di un file per recuperare una precedente versione.
 
 **GitHub** nasce per gestire lo sviluppo di progetti software, è basato sul software *open source* Git (ideato e sviluppato da [Linus Torvalds](https://it.wikipedia.org/wiki/Linus_Torvalds).
 
